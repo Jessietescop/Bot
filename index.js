@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching The Server"];
+const statusMessages = ["DM me or Open a Ticket to Report"];
 
 
 let currentIndex = 0;
