@@ -36,7 +36,8 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["HOSTED BY enigma_134"];
+const statusMessages = ["HOSTED BY orlando189
+"];
 
 
 let currentIndex = 0;
