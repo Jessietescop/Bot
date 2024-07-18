@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["DM me or Open a Ticket to Report"];
+const statusMessages = ["HOSTED BY enigma_134"];
 
 
 let currentIndex = 0;
